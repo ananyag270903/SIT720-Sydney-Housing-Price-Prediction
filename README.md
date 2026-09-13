@@ -14,6 +14,12 @@ Distinction Task 8.1D.
   machine learning pipeline used by the application.
 - `requirements.txt` - required Python packages.
 
+## Running the Notebook
+
+Open `Task_8.1D.ipynb` in Jupyter Notebook or JupyterLab and run all cells
+from top to bottom. The notebook uses `Sydney_Housing_Data_Collection.xlsx`
+as the source dataset.
+
 ## Running the Application
 
 Install the required packages:
