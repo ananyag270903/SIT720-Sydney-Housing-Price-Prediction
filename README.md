@@ -22,6 +22,8 @@ as the source dataset.
 
 ## Running the Application
 
+After cloning my repository on your system:
+
 Install the required packages:
 
     pip install -r requirements.txt
